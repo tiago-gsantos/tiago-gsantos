@@ -4,4 +4,4 @@
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
