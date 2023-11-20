@@ -6,7 +6,7 @@ Here you can find a list of all the projects I've done during my graduation at I
 
 - **FP** (Programming Fundamentals)
   - Project 1 - [Text justification, Hondt Method and Solution of Systems of Equations](https://github.com/tiago-gsantos/ist-fp-proj1)
-  - Project 2 - [Title]()
+  - Project 2 - [Mineswepper](https://github.com/tiago-gsantos/ist-fp-proj2)
 - **LP** (Programming Logic)
   - Project 1 - [Title]()
 - **IAED** (Introduction to Algorithms and Data Structures)
