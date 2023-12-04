@@ -20,7 +20,7 @@ Here you can find a list of all the projects I've done during my graduation at I
 - **PO** (Object-oriented Programming)
   - Project 1 (Java) - [Spreadsheet Manager](https://github.com/tiago-gsantos/ist-po-proj)
 - **SO** (Operating Systems)
-  - Project 1 - [Title]()
+  - Project 1 - [Event Managment System](https://github.com/tiago-gsantos/ist-so-proj1)
 - **ASA** (Analysis and Synthesis of Algorithms)
   - Project 1 (C++) - [2D Knapsack Problem](https://github.com/tiago-gsantos/ist-asa-proj1)
   - Project 2 - [Title]()
