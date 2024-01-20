@@ -25,4 +25,5 @@ Here you can find a list of all the projects I've done during my graduation at I
 - **ASA** (Analysis and Synthesis of Algorithms)
   - Project 1 (C++) - [2D Knapsack Problem](https://github.com/tiago-gsantos/ist-asa-proj1)
   - Project 2 (C++) - [Disease Spread Calculation](https://github.com/tiago-gsantos/ist-asa-proj2)
-  - Project 3 - [Title]()
+  - Project 3 (Python) - [Linear programming](https://github.com/tiago-gsantos/ist-asa-proj3)
+ 
