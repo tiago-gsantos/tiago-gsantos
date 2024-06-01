@@ -26,4 +26,9 @@ Here you can find a list of all the projects I've done during my graduation at I
   - Project 1 (C++) - [2D Knapsack Problem](https://github.com/tiago-gsantos/ist-asa-proj1)
   - Project 2 (C++) - [Disease Spread Calculation](https://github.com/tiago-gsantos/ist-asa-proj2)
   - Project 3 (Python) - [Linear Programming](https://github.com/tiago-gsantos/ist-asa-proj3)
- 
+- **IPM** (Human-Computer Interaction)
+  - Bake-off 2 (Java Script) - [Speed Game](https://github.com/tiago-gsantos/ist-ipm-bakeoff2)
+- **IA** (Artifitial Inteligence)
+  - Project 1 (Python) - [PipeMania Solver](https://github.com/tiago-gsantos/ist-ia-proj)
+- **BD** (Data Base)
+  - Project 1 & 2 (SQL) - [Health Clinics DB](https://github.com/tiago-gsantos/ist-bd-proj)  
