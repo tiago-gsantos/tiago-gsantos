@@ -31,4 +31,14 @@ Here you can find a list of all the projects I've done during my graduation at I
 - **IA** (Artifitial Inteligence)
   - Project 1 (Python) - [PipeMania Solver](https://github.com/tiago-gsantos/ist-ia-proj)
 - **BD** (Data Base)
-  - Project 1 & 2 (SQL) - [Health Clinics DB](https://github.com/tiago-gsantos/ist-bd-proj)  
+  - Project 1 & 2 (SQL) - [Health Clinics DB](https://github.com/tiago-gsantos/ist-bd-proj)
+
+### Year 3
+
+- **OC** (Computer Organization)
+  - Project 1 & 3 (C & Assembly) - [Cache Simulator & Pipelining](https://github.com/tiago-gsantos/ist-oc-proj)
+- **Apren** (Machine Learning)
+  - Homework 1 (Python) - [Decision Trees](https://github.com/tiago-gsantos/ist-apren-homework1)
+  - Homework 2 (Python) - [kNN & Bayesian Learning](https://github.com/tiago-gsantos/ist-apren-homework2)
+  - Homework 3 (Python) - [Linear Regression & Neural Networks](https://github.com/tiago-gsantos/ist-apren-homework3)
+  - Homework 4 (Python) - [Clustering](https://github.com/tiago-gsantos/ist-apren-homework4)
