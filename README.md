@@ -1,7 +1,3 @@
-### Hey! My name is Tiago Santos
+### Hey! I'm Tiago
 - 🎓 Studying Computer Science (LEIC) @ Instituto Superior Técnico
-- 🏀 Basketball Player 
-
-##
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,js)](https://skillicons.dev)
+- 🏀 Basketball Player
